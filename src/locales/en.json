@@ -3,8 +3,8 @@
     "completedTasks": "Completed Tasks",
     "dailySales": "Daily Sales",
     "performance": "Performance",
-    "simpleTable": "Simple Table",
-    "totalShipments": "Total Shipments",
+    "simpleTable": "Connected",
+    "totalShipments": "Total Usage",
     "chartCategories": [
       "Accounts",
       "Purchases",
@@ -18,12 +18,12 @@
       "somethingElse": "Something else"
     },
     "usersTable": {
-      "title": "Simple Table",
+      "title": "Station",
       "columns": [
         "Name",
-        "Country",
+        "Location",
         "City",
-        "Salary"
+        "actions"
       ],
       "data": [
         {
@@ -111,13 +111,13 @@
     ]
   },
   "sidebar": {
-    "title": "Creative Tim",
-    "shortTitle": "CT",
+    "title": "Elmohubs",
+    "shortTitle": "EH",
     "dashboard": "dashboard",
-    "icons": "Icons",
+    "icons": "icons",
     "maps": "Maps",
     "notifications": "Notifications",
-    "userProfile": "User Profile",
+    "userProfile": "add  User",
     "tableList": "Table List",
     "typography": "Typography",
     "rtlSupport": "RTL Support"

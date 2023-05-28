@@ -111,11 +111,11 @@
     ]
   },
   "sidebar": {
-    "title": "Creative Tim",
+    "title": "ELMOHUBS",
     "shortTitle": "CT",
     "dashboard": "tablica rozdzielcza",
-    "icons": "Ikony",
-    "maps": "Mapy",
+    "icons": "Data",
+    "maps": "Station Maps",
     "notifications": "Powiadomienia",
     "userProfile": "Profil użytkownika",
     "tableList": "Lista tabel",

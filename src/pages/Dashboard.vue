@@ -37,7 +37,7 @@
               </div>
             </div>
           </template>
-          <iframe src="https://kickfleetshop.unifiedapi.io/" />
+
           <div class="chart-area">
             <line-chart
               style="height: 100%"
