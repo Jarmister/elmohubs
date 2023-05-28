@@ -1,0 +1,125 @@
+{
+  "dashboard": {
+    "completedTasks": "Zakończone zadania",
+    "dailySales": "Dzienna sprzedaż",
+    "performance": "Wydajność",
+    "simpleTable": "Prosta Tabela",
+    "totalShipments": "Całkowita liczba przesyłek",
+    "chartCategories": [
+      "Konta",
+      "Zakupy",
+      "Sesje"
+    ],
+    "tasks": "Zadania({count})",
+    "today": "Dzisiaj",
+    "dropdown": {
+      "action": "Akcja",
+      "anotherAction": "Inna Akcja",
+      "somethingElse": "Coś innego"
+    },
+    "usersTable": {
+      "title": "Prosta Tabela",
+      "columns": [
+        "Imię",
+        "Kraj",
+        "Miasto",
+        "Wynagrodzenie"
+      ],
+      "data": [
+        {
+          "id": 1,
+          "name": "Dakota Rice",
+          "salary": "$36.738",
+          "country": "Niger",
+          "city": "Oud-Turnhout"
+        },
+        {
+          "id": 2,
+          "name": "Minerva Hooper",
+          "salary": "$23,789",
+          "country": "Curaçao",
+          "city": "Sinaai-Waas"
+        },
+        {
+          "id": 3,
+          "name": "Sage Rodriguez",
+          "salary": "$56,142",
+          "country": "Netherlands",
+          "city": "Baileux"
+        },
+        {
+          "id": 4,
+          "name": "Philip Chaney",
+          "salary": "$38,735",
+          "country": "Korea, South",
+          "city": "Overland Park"
+        },
+        {
+          "id": 5,
+          "name": "Doris Greene",
+          "salary": "$63,542",
+          "country": "Malawi",
+          "city": "Feldkirchen in Kärnten"
+        },
+        {
+          "id": 6,
+          "name": "Mason Porter",
+          "salary": "$98,615",
+          "country": "Chile",
+          "city": "Gloucester"
+        },
+        {
+          "id": 7,
+          "name": "Jon Porter",
+          "salary": "$78,615",
+          "country": "Portugal",
+          "city": "Gloucester"
+        }
+      ]
+    },
+    "taskList": [
+      {
+        "title": "Aktualizuj dokumentację",
+        "description": "Dwuamish Head, Seattle, WA 8:47 AM",
+        "done": false
+      },
+      {
+        "title": "Zgodność z RODO",
+        "description": "RODO to regulacja, która wymaga od firm ochrony danych osobowych i prywatności obywateli Europy w przypadku transakcji dokonywanych w państwach członkowskich UE.",
+        "done": true
+      },
+      {
+        "title": "Rozwiąż problemy",
+        "description": "Pięćdziesiąt procent wszystkich respondentów powiedziało, że byłoby bardziej skłonnych do robienia zakupów w firmie",
+        "done": false
+      },
+      {
+        "title": "Wydanie v2.0.0",
+        "description": "RaAve SW, Seattle, WA 98116, SUA 11:19 AM",
+        "done": false
+      },
+      {
+        "title": "Eksportuj przetworzone pliki",
+        "description": "Raport pokazuje również, że konsumenci nie będą łatwo wybaczali firmie, gdy wystąpi naruszenie, które ujawni ich dane osobowe.",
+        "done": false
+      },
+      {
+        "title": "Przybycie do procesu eksportu",
+        "description": "Capitol Hill, Seattle, WA 12:34 AM",
+        "done": false
+      }
+    ]
+  },
+  "sidebar": {
+    "title": "Creative Tim",
+    "shortTitle": "CT",
+    "dashboard": "tablica rozdzielcza",
+    "icons": "Ikony",
+    "maps": "Mapy",
+    "notifications": "Powiadomienia",
+    "userProfile": "Profil użytkownika",
+    "tableList": "Lista tabel",
+    "typography": "Typografia",
+    "rtlSupport": "Wsparcie RTL"
+  }
+}
